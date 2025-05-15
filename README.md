@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
-## NAME : GAUTHAM KRISHNA S
-## REGISTER NUMBER : 212223240036
+## NAME : AADHITHYA L
+## REGISTER NUMBER : 212224220003
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
